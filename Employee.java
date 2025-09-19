@@ -20,7 +20,7 @@ public class Employee{
     }
     
     public string setfullname(String fullname){
-        fullname = new fullname;
+        fullname = new fullname();
     }
     
     public String getfullname(){
